@@ -1,0 +1,9 @@
+1. MOS is a Metal Oxide Semiconductor 
+
+2. Difference between P and N is N brings in and P pushes out
+
+3. Voltage goes in two opposite directions 
+
+4. Two transistors
+
+5. 4 gates, and 2 outputs 
